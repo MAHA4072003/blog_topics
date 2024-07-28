@@ -1,0 +1,20 @@
+LOG Function in SQL
+LOG2 Function in SQL
+LOG10 Function in SQL
+GREATEST Function in SQL
+POW Function in SQL
+DIV Function in SQL
+LEAST Function in SQL
+LN Function in SQL
+UNICODE Function in SQL
+REPLICATE Function in SQL
+TRUNCATE Function in SQL
+DATALENGTH Function in SQL
+NCHAR Function in SQL
+OCTET_LENGTH Function in SQL
+PATINDEX Function in SQL
+PI Function in SQL
+LIKE Function in SQL
+ORD Function in SQL
+Different Star Patterns in SQL
+SQL General Functions: NVL, NVL2, DECODE, COALESCE, NULLIF, LNNVL and NANVL

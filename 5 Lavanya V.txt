@@ -1,0 +1,50 @@
+JS constructor Method
+JS static Method
+JS Encapsulation
+JS Inheritance
+JS Polymorphism
+JS Abstraction
+JS Cookies
+Cookie Attributes
+Cookie with multiple Name
+Deleting Cookies
+JavaScript Events
+JavaScript addEventListener()
+JS onclick event
+JS dblclick event
+JS onload event
+JS onresize event
+JS Exception Handling
+JavaScript try-catch
+JS this Keyword
+JS Debugging
+JS Hoisting
+JS Strict Mode
+JavaScript Promise
+JS Compare dates
+JavaScript array.length
+JavaScript alert()
+JavaScript eval() function
+JavaScript closest()
+JavaScript continue statement
+JS getAttribute() method
+JS hide elements
+JavaScript prompt()
+removeAttribute() method
+JavaScript reset
+JavaScript return
+JS String split()
+JS typeof operator
+JS ternary operator
+JS reload() method
+JS setAttribute() method
+JS setInterval() method
+JS setTimeout() method
+JS string includes() method
+JavaScript String trim()
+JavaScript timer
+Remove elements from array
+JavaScript localStorage
+JavaScript offsetHeight
+Confirm password validation
+Static vs Const

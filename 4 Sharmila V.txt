@@ -1,0 +1,50 @@
+C# Programs
+Fibonacci Series
+Prime Number
+Palindrome Number
+Factorial
+Armstrong Number
+Sum of digits
+Reverse Number
+Swap Number
+Decimal to Binary
+Number in Characters
+Alphabet Triangle
+Number Triangle
+Fibonacci Triangle
+JavaScript Introduction --*JAVASCRIPT*--
+JavaScript Example
+External JavaScript
+JS Comment
+JS Variable
+JS Global Variable
+JS Data Types
+JS Operators
+JS If Statement
+JS Switch
+JS Loop
+JS Function
+JS Object
+JS Array
+JS String
+JS Date
+JS Math
+JS Number
+JS Boolean
+Browser Objects
+1) Window Object
+2) History Object
+3) Navigator Object
+4) Screen Object
+5) Document Object
+getElementById
+GetElementsByClassName()
+getElementsByName
+getElementsByTagName
+JS innerHTML property
+JS innerText property
+JS form validation
+JS email validation
+JS Class
+JS Object
+JS Prototype

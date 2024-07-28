@@ -1,0 +1,50 @@
+SQL CLAUSES
+SQL LOGICAL OPERATORS
+How to Delete Column from Table in SQL
+How to Add Column in the Table in SQL
+How to Delete one row in SQL
+How to Change the Column Value in SQL
+How to Add Foreign Key in SQL
+How to Add a Primary Key in SQL
+How to Insert One or More rows in SQL
+How to Use LIKE in SQL
+Cursor in SQL
+DROP vs Truncate in SQL
+SQL Comparison Operators
+SQL COUNT WHERE
+SQL SELECT MIN
+SQL Stored Procedure
+SQL SELECT AVG
+SQL SELECT MAX
+SQL ADD COLUMN
+How to use Auto-Increment in SQL
+SQL Languages
+SQL Arithmetic Operators
+How to Use GROUP BY in SQL
+How to Use ORDER BY in SQL
+Trigger in SQL
+What is Race Condition
+SQL COUNT DISTINCT
+SQL UNION
+How to Use ANY keyword in SQL
+How to use CHECK in SQL
+How to use DEFAULT in SQL
+How to use NOT NULL in SQL
+How to Use BETWEEN in SQL
+How to Use IN in SQL
+SQL INTERSECT
+How to use UNION in SQL
+SQL NOT Operator
+INSTR Function in SQL
+LEFT Function in SQL
+LOCATE Function in SQL
+RIGHT Function in SQL
+STRCMP Function in SQL
+How to Use HAVING in SQL
+CONCAT Function in SQL
+LOWER Function in SQL
+REPLACE Function in SQL
+SUBSTR Function in SQL
+MID Function in SQL
+REPEAT Function in SQL
+SUBSTRING_INDEX Function in SQL

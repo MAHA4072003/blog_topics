@@ -1,0 +1,52 @@
+Group By vs Order By
+WHERE vs HAVING
+Where condition in SQL
+SQL String Functions
+LTRIM Function in SQL
+UPPER Function in SQL
+SQL Formatter
+SQL group by
+SQL add/drop/update column operation
+SQL CAST Function
+SQL Comments
+SQL CONCAT Function
+CTE SQL
+How to use distinct in SQL
+Joining Three or More Tables in SQL
+What is Web SQL
+How to create functions in SQL
+How to run SQL Script
+How to Delete Duplicate Rows in SQL
+Nth Highest salary
+What is SQL
+12 Codd's Rules
+SQL EXCEPT
+Types of SQL JOIN
+Change datatype of column in SQL
+SQL Auto Increment
+SQL Like
+Commit and Rollback in SQL
+SQL Concatenate
+SQL get month from the date
+Savepoint in SQL
+SQL ORDER BY DATE
+TIME Datatype in SQL
+SQL BETWEEN
+SQL CRUD Operations
+SQL INDEX
+Scalar Functions in SQL
+SET Operators in SQL
+Types of SQL Commands
+TCL Commands in SQL
+SQL Subquery
+SQL View
+Constraints in SQL
+Pattern Matching in SQL
+SQL Date Functions
+DDL Commands in SQL
+DML Commands in SQL
+SQL CASESQL Inner Join
+SQL IN Operator
+Check Constraint in SQL
+
+
