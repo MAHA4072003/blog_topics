@@ -1,0 +1,50 @@
+NumPy fix()
+NumPy floor()
+NumPy rint()
+NumPy tanh()
+NumPy trunc()
+numpy.matlib.empty()
+numpy.matlib.eye()
+numpy.matlib.identity()
+numpy.matlib.ones()
+numpy.matlib.zeros()
+numpy.arrange()
+numpy.asarray()
+numpy.frombuffer()
+numpy.fromiter()
+numpy.linspace()
+numpy.logspace()
+R Introduction --*--R--*--
+R Installation
+R Studio IDE
+R Advantage & Disadvantage
+R Hadoop Integration
+R Packages
+List of R Packages
+R Basic Syntax
+R Data Types
+R Data Structures
+R Variables
+R Keywords
+R Operators
+R If Statement
+If-else Statement
+else if Statement
+R Switch Statement
+R Next Statement
+R Break Statement
+R For Loop
+R Repeat Loop
+R While Loop
+R Functions
+R Built-in Functions
+R Data Structures
+R Vectors
+R Lists
+R Arrays
+R Matrix
+R Data Frame
+R Factors
+Data Reshaping
+Object-Oriented Programming
+R Debugging

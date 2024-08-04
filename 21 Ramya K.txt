@@ -1,0 +1,50 @@
+Bootstrap Spinners
+Bootstrap star rating
+Bootstrap Tooltip
+Bootstrap Alternatives
+Bootstrap picker
+Bootstrap 4 Layout
+Bootstrap 4 Buttons
+Bootstrap 4 Dropdown
+Bootstrap 4 Spinners
+Bootstrap 4 Badges
+Bootstrap 4 Progress Bars
+Bootstrap 4 Jumbotron
+Bootstrap 4 Text
+Bootstrap 4 Pagination
+Bootstrap 4 Carousel
+Bootstrap 4 Scrollspy
+Bootstrap 4 Tooltip
+Bootstrap 4 Accordion
+Bootstrap 4 Login Form
+Bootstrap 4 Checkboxes
+Bootstrap 4 Radio Button
+Bootstrap 4 Toast
+Bootstrap 4 registration form
+Bootstrap 4 Popover
+Bootstrap 4 testimonial slider
+Bootstrap 4 footer
+Bootstrap 4 Contact form
+Bootstrap 4 search box
+Bootstrap 4 File Upload
+Bootstrap 4 Sidebar
+Bootstrap 4 Data table
+Bootstrap 4 toggle switch
+Bootstrap 4 Header
+Bootstrap 4 Tabs
+Bootstrap 4 Flexbox
+Bootstrap 4 Modal
+Bootstrap 4 Input groups
+Bootstrap 4 Responsive Table
+Bootstrap 4 colors
+Bootstrap 4 Button Groups
+Bootstrap 4 custom form
+Bootstrap 4 Datepicker
+Bootstrap 4 Image thumbnail
+Bootstrap 4 Grid System
+Bootstrap 4 Textarea
+Bootstrap 4 Figure class
+Bootstrap 4 Counter
+Bootstrap 4 Admin Panel
+Bootstrap 4 List groups
+Bootstrap 4 Filters

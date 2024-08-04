@@ -1,0 +1,50 @@
+Recoverability of Schedule
+Failure Classification
+Log-Based Recovery
+DBMS Checkpoint
+Deadlock in DBMS
+Concurrency Control
+Lock based Protocol
+Time stamping Protocol
+Validation based Protocol
+Thomas Write Rule
+Multiple Granularity
+Recovery Concurrent Transaction
+File organization
+Sequential File Organization
+Heap File Organization
+Hash File Organization
+B+ File Organization
+DBMS ISAM
+Cluster File Organization
+Indexing in DBMSB+ Tree
+Hashing
+Static Hashing
+Dynamic Hashing
+RAID
+SQLite Introduction ---*--SQLLite--*--
+SQL vs SQLite
+SQLite History
+SQLite Features
+SQLite Advantages
+SQLite Installation
+SQLite CommandsS
+QLite Syntax
+SQLite Data Types
+SQLite Operators
+SQLite Expressions
+SQLite Create DB
+SQLite Attach DB
+SQLite Detach DB
+SQLite Create Table
+SQLite Drop Table
+CRUD Operation
+SQLite Insert Query
+SQLite Select Query
+SQLite Update Query
+SQLite Delete Query
+Clauses/Conditions
+SQLite WHERE
+SQLite AND
+SQLite OR
+SQLite LIKE

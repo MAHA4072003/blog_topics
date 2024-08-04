@@ -1,0 +1,50 @@
+Angular 7 Property Binding
+Angular 7 Pipes
+Angular 7 Error Fixing
+Angular 7 Forms
+Data Flow in Angular Forms
+Angular Reactive Forms
+Template-driven Forms
+Bootstrap Introduction--*-- BOOSTRAP--*--
+What is Bootstrap
+Bootstrap Example
+Bootstrap Container
+Bootstrap Examples
+Bootstrap Jumbotron
+Bootstrap Button
+Bootstrap Grid
+Bootstrap Table
+Bootstrap Form
+Bootstrap Alert
+Bootstrap Wells
+Bootstrap Badge & Label
+Bootstrap Panels
+Bootstrap Pagination
+Bootstrap Pager
+Bootstrap Image
+Bootstrap Glyphicon
+Bootstrap Carousel
+Bootstrap Progress Bar
+Bootstrap List Group
+Bootstrap Dropdown
+Bootstrap Collapse
+Bootstrap Tabs/Pills
+Bootstrap Navbar
+Bootstrap Input Types
+Bootstrap Modals
+Bootstrap Popover
+Bootstrap Scrollspy
+Bootstrap Border
+Bootstrap Clearfix
+Bootstrap Close Icons
+Bootstrap Colors
+Bootstrap Flexbox
+Display property
+Image Replacement
+Invisible Content
+Bootstrap Position
+Responsive helpers
+Screen readers
+Bootstrap Sizing
+Bootstrap Spacing
+Bootstrap Typography

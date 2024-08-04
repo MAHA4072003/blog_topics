@@ -1,0 +1,50 @@
+XQuery Functions
+XQuery Sequences
+XQuery Sequence functions
+XQuery String functions
+1) String-length()
+2) String concat()
+3) String-join()
+XQuery Time & Date
+1) current-date()
+2) current-time()
+3) current-dateTime()
+XQuery If Then Else
+XQuery Regex
+What is XSLT
+XSLT Syntax
+XSLT xsl:value-of
+XSLT xsl:for-each
+XSLT xsl:sort
+XSLT xsl:if
+XSLT xsl:choose
+XSLT xsl:key
+XSLT xsl:message
+XSLT xsl:apply-template
+XSLT xsl:import
+What is XPath
+XPath Expression
+XPath Nodes
+XPath Syntax
+XPath Absolute Path
+XPath Relative Path
+XPath Axes
+XPath Operators
+XPath Operators
+1) XPath Comparison
+2) XPath Boolean
+3) XPath Number
+4) XPath String
+5) XPath Node
+XPath Wildcard
+XPath Predicate
+jQuery Introduction --*--jQuery--*--
+What is jQuery
+jQuery History
+jQuery Example
+jQuery Selectors
+jQuery Effects
+jQuery Effects
+jQuery hide()
+jQuery show()
+jQuery toggle()

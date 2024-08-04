@@ -1,0 +1,50 @@
+MySQL Create Database(in Node.js)
+MySQL Create Table(in Node.js)
+MySQL Insert Record(in Node.js)
+MySQL Update Record(in Node.js)
+MySQL Delete Record(in Node.js)
+MySQL Select Record(in Node.js)
+MySQL Select Unique(in Node.js)
+MySQL Drop Table(in Node.js)
+Create Connection(in Node.js)
+Create Database(in Node.js)
+Create Collection(in Node.js)
+MongoDB Insert(in Node.js)
+MongoDB Select(in Node.js)
+MongoDB Query(in Node.js)
+MongoDB Sorting(in Node.js)
+MongoDB Remove(in Node.js)
+Node.js vs AngularJS
+Node.js vs Python
+Node.js vs PHP
+Node.js vs Java
+XML Introduction--*--XML--*--
+What is XML
+XML Features
+HTML vs XML
+XML Example
+XML Technologies
+XML Attributes
+XML Comments
+XML Tree
+XML Validation
+XML DTD
+XML CSS
+XML Schema
+DTD vs XSD
+CDATA vs PCDATA
+XML Parsers
+XML DOM
+XML Database
+XML Namespaces
+What is XQuery
+XQuery Features
+XQuery vs XPath
+XQuery vs XSLT
+Environment Setup
+XQuery First Example
+XQuery FLWOR
+XQuery HTML Format
+XQuery XPath
+XQuery Syntax
+XQuery Add

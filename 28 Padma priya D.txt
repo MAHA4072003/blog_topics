@@ -1,0 +1,50 @@
+Django Forms
+Form Validation
+File Upload
+Database Connectitvity
+Database Migrations
+Django Middleware
+Request and Response
+Django Exceptions
+Django Session
+Django Cookie
+Djnago CSV Output
+Django PDF Output
+Django and Bootstrap
+Deploy on Github
+Django Mail Setup
+Django Default CRUD
+CRUD Application
+Django Redirects
+Django on_delete
+Django Class Based Generic Views
+Django UserCreationForm
+Django Image Upload
+Django ORM Queries
+Django Form Widget
+Ruby on Rails vs. Django
+select_related and prefetch_related
+Django Custom User Model
+Django User Registration with Email Confirmation
+How to use Django Widget Tweaks
+Django Shortcuts
+How to connect MySQL to Django
+How to use F() Expression
+Django News App
+ToDo Webapp using Django
+Fixtures in Django
+Dokku Django
+ModelSerializer in serializers - Django REST Framework
+Relational Fields in Django Models
+URL Fields in Serializers - Django 
+REST Framework
+Introduction of NumPy --*--Numpy--*--
+Environment Setup
+NumPy Ndarray
+NumPy Data Types
+NumPy Array Creation
+Array From Existing Data
+Arrays within the numerical range
+NumPy Broadcasting
+NumPy Array Iteration
+NumPy Bitwise Operators

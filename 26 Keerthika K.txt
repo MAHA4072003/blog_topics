@@ -1,0 +1,50 @@
+What is Postman
+Installation & Updates
+Postman Navigation
+Sending Your First Request
+Creating First Collection
+Creating Requests
+Authorizing Requests
+GET Request in Postman
+Response in Postman
+Request Parameters
+POST Request
+Postman Cookies
+Collections
+Creating Collections
+Sharing Collections
+Variables
+Postman Variables
+Dynamic Variables
+Scripts
+Intro to Scripts
+Pre-request Scripts
+Test Scripts
+Test Examples
+Workflows in Postman
+Asserts in Postman
+Intro to Postman API
+Continuous Integration
+Branching & Looping
+Data Science Introduction --*--Data Science--*--
+DS What is Data, Database Table
+DS DataFrame
+DS Functions
+DS Data Preparation
+DS Math
+DS Linear Functions
+DS Plotting Functions
+DS Slope and Intercept
+DS Statistics
+Stat Introduction, Percentiles
+Stat Standard Deviation
+Stat Variance
+Stat Correlation
+Stat Correlation Matrix
+DS Linear Regression
+DS Regression Table
+DS Regression Info
+DS Regression Coefficients
+DS Regression P-Value
+DS Regression R-Squared
+DS Linear Regression Case

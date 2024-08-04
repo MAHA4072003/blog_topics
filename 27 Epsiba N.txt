@@ -1,0 +1,50 @@
+Enter Data
+Select Data
+Delete Data
+Move Data
+Copy Paste Data
+Spell Check
+Insert Symbols
+Excel Calculation
+Addition
+Sigma Addition
+Subtraction
+Calculate Average
+Sigma Average
+Excel Fill Handle
+Fill Handle with Text
+Text with Numbers
+Fill Handle with Dates
+Create Formula
+Fill Handle in Formula
+Relative Referencing
+Absolute Referencing
+Instruction for Typing
+Quick Excel Functions
+Excel IF
+If Function
+If with Calculations
+Excel COUNTIF
+Advanced If
+Excel Macros
+Excel sumif
+Excel vlookup
+What is Pivot Table
+Excel ISNA
+Find & Remove Duplicates
+Create drop-down List
+Merge cells in Excel
+Introduction of Django --*-- Django--*--
+Django Installation
+Django Project
+Apache Configuration
+Virtual Environment Setup
+Admin Interface
+Django App
+Django MVT
+Django Model
+Django View
+Django Template
+URL MappingS
+tatic Files Handling
+ModelForms

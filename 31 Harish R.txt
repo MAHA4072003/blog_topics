@@ -1,0 +1,80 @@
+Data Interfaces
+R CSV File
+R Excel File
+R Binary File
+R JSON File
+R XML File
+R Database
+R Data Visualization
+R Pie Charts
+R Bar Charts
+R Boxplot
+R Histogram
+R Line Graphs
+R Scatterplots
+R Regression
+Linear Regression
+Multiple Regression
+Logistic Regression
+Poisson Regression
+R Statistics
+Normal Distribution
+Binomial Distribution
+R Classification
+Time Series Analysis
+R Random Forest
+T-Test in R
+Introduction of TypeScript  --8--TypeScript--8--
+TypeScript Versions
+JavaScript vs TypeScript
+TypeScript Features
+TypeScript Components
+TypeScript Installation
+TypeScript First Program
+TypeScript Types
+Null vs undefined
+TypeScript Variables
+Let vs Var
+TypeScript Operators
+Type Annotation
+Type Inference
+TypeScript Type Assertion
+TypeScript Arrays
+Typescript Tuples
+Typescript Union
+TypeScript String
+TypeScript Numbers
+TypeScript Decision Making
+TypeScript Switch Statement
+TypeScript Indefinite Loops
+TypeScript Definite Loop
+Typescript Enums
+Typescript forEach
+Typescript Map
+Typescript Set
+TypeScript Access Modifiers
+TypeScript Accessor
+TypeScript Function
+TypeScript Arrow function
+Function Overloading
+Function Parameter
+Typescript Classes
+TypeScript Inheritance
+Typescript Interface
+Typescript Namespaces
+Typescript Module
+Namespaces vs Modules
+Typescript GenericsT
+ypescript Decorators
+Typescript Date Object
+Typescript Duck-Typing
+Ambients Declaration
+Typescript tsconfig.json
+Typescript Build ToolsM
+igrating from JavaScript to TypeScript
+Differences TypeScript vs. ES6
+Differences TypeScript vs. Flow
+Differences TypeScript vs. Babel
+Differences TypeScript vs. CoffeeScript
+Differences TypeScript vs. Dart
+Differences TypeScript Class vs. Interface

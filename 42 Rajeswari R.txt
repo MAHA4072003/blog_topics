@@ -1,0 +1,50 @@
+Storage Gateway
+AWS Snowball
+S3 Transfer Acceleration
+EC2 - Backbone of AWS
+AWS EC2
+AWS EBS
+Creating an EC2 instance
+EBS Volume
+Security Group
+AWS AMI
+Creating an AMI
+AWS Load Balancing
+Creating Load Balancer
+AWS Lambda
+Creating a Lambda
+CloudWatch EC2
+AWS Bash Script
+AWS Route53
+What is DNS
+Relational Database
+Non Relational Database
+AWS Elasticache
+AWS DynamoDB
+AWS Aurora
+AWS Redshift
+AWS SQS
+AWS SWF
+AWS SNS
+Elastic Transcoder
+API Gateway
+AWS Kinesis
+AWS VPC
+Direct Connect
+NAT Gateways
+AWS Bastion Host
+AWS VPC Endpoint
+AWS VPC FlowLogs
+AWS NACL
+NACL vs Security Group
+AWS Data Pipeline
+AWS Lightsail
+Amazon SES
+AWS CloudFormation
+What is AWS CLI
+What is Amazon EMR
+Amazon RDS
+AWS Athena
+What is AWS Amplify
+Amazon Cognito
+What is AWS Console

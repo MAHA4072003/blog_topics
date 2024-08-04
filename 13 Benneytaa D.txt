@@ -1,0 +1,50 @@
+Vertical ScrollView
+Horizontal ScrollView
+ImageSwitcher
+ImageSlider
+ViewStub
+TabLayoutTabLayout with FrameLayout
+SearchViewSearchView on Toolbar
+EditText with TextWatcher
+Activity LifeCycle
+Implicit Intent
+Explicit Intent
+StartActivityForResult
+Share App Data
+Android Fragments
+Option Menu
+Context Menu
+Popup Menu
+Android Service
+Android AlarmManager
+Android Storage
+Android Preferences
+Internal Storage
+External Storage
+SQLite Tutorial
+SQLite Spinner
+XML and JSON
+XML Parsing SAX
+XML Parsing DOM
+XMLPullParse
+rJSON Parsing
+Android Multimedia
+MediaPlayer: Audio
+VideoView: Video
+Recording Media
+TextToSpeech1
+TextToSpeech2
+TelephonyManager
+Get Call State
+Get Call State 2
+Simple Caller Talker
+Phone Call
+Send SMS
+Send Email
+Bluetooth 
+List Paired Devices
+WIFI 
+Camera 
+Sensor 
+Android Graphics
+Android Animation

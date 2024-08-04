@@ -1,0 +1,50 @@
+DBMS Introduction
+What is Database
+Types of Databases
+What is RDBMS
+DBMS vs RDBMS
+DBMS vs File System
+DBMS Architecture
+Three schema Architecture
+Data Models
+Data model schema
+Data Independence
+DBMS Language
+ACID Properties in DBMS
+ER model concept
+Notation for ER diagram
+ER Design Issues
+Mapping constraints
+DBMS Keys
+DBMS Generalization
+DBMS Specialization
+DBMS Aggregation
+Convert ER into table
+Relationship of Higher Degree
+Relational Model concept
+Relational Algebra
+Join Operation
+Integrity Constraints
+Relational Calculus
+Normalization
+Functional Dependency
+Inference Rule
+DBMS Normalization
+DBMS 1NF
+DBMS 2NF
+DBMS 3NF
+DBMS BCNF
+DBMS 4NF
+DBMS 5NF
+Relational Decomposition
+Multivalued Dependency
+Join Dependency
+Inclusion Dependence
+Canonical Cover
+Transaction Processing
+Transaction Property
+States of Transaction
+DBMS Schedule
+Testing of Serializability
+Conflict schedule
+View Serializability

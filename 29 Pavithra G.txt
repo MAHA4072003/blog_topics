@@ -1,0 +1,50 @@
+NumPy String Functions
+NumPy Mathematical Functions
+Statistical Functions
+Sorting & Searching
+Copies and Views
+Matrix Library
+NumPy Linear Algebra
+Matrix Multiplication
+NumPy Functions
+numpy array()
+numpy concatenate()
+numpy append()
+numpy reshape()
+numpy sum()
+numpy random()
+numpy.zeros()
+numpy.log()
+numpy.where()
+numpy.argsort()
+numpy.transpose()
+numpy.mean()
+numpy.unique()
+numpy.ndarray.tolist()
+numpy.dot()
+numpy.loadtxt()
+numpy.clip()
+numpy.ndarray.flatten()
+numpy.meshgrid()
+numpy.std()
+numpy.argmax()
+numpy.diff()
+numpy.empty()
+numpy.histogram()
+numpy.sort()
+numpy.average()
+numpy.pad()
+numpy.ravel()
+Numpy.save()
+NumPy arccos()
+NumPy arcsin()
+NumPy arctan()
+NumPy degrees()
+NumPy tan()
+NumPy deg2rad()
+NumPy hypot()
+NumPy rad2deg()
+NumPy radians()
+NumPy arcsinh()
+NumPy arctanh()
+NumPy ceil()

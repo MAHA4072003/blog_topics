@@ -1,0 +1,50 @@
+Software Virtualization
+Server Virtualization
+Storage Virtualization
+OS Virtualization
+Linux Virtualization
+Windows Virtualization
+Cloud Service Provider Companies
+Amazon EC2
+AWS vs Azure vs GCP
+Miscellaneous
+Cloud Server
+Cloud Deployment Model
+Cloud Hypervisor
+Cloud Computing Examples
+Cloud Computing Job
+sFeatures of Cloud Computing
+Multitenancy in Cloud computing
+Grid ComputingAneka in Cloud Computing
+Scaling in Cloud Computing
+How Does Multi-Cloud Differ from A Hybrid Cloud
+Rapid Elasticity in Cloud Computing
+Fog computing vs Cloud computing
+Strategy of Multi-Cloud
+Service level agreements in Cloud Computing
+Xaas in Cloud Computing
+Resource pooling in Cloud Computing
+Load Balancing in Cloud Computing
+DaaS in Cloud Computing
+What is Cloud Computing Replacing
+Cloud computing vs Internet of Things
+Web Services in Cloud Computing
+CaaS in Cloud Computing
+Fault Tolerance in Cloud Computing
+Principles of Cloud Computing
+What are Roots of Cloud Computing
+What is Data Center in Cloud Computing
+Resiliency in Cloud Computing
+Cloud Computing Security Architecture
+Introduction to Parallel Computing
+The Architecture of Virtualization in Cloud Computing
+STaaS
+Architecture of Cloud Computing
+AWS Cloud Competitors
+Cloud Hosting Vs Web Hosting
+Who Invented Cloud Computing
+Bare Metal Cloud
+Colocation vs. Cloud
+Advantages of using the AWS Cloud
+Google Cloud vs Digital Ocean Pricing
+iCloud Drive vs Dropbox

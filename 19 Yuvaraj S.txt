@@ -1,0 +1,50 @@
+jQuery change()
+jQuery submit()
+jQuery keydown()
+jQuery keypress()
+jQuery keyup()
+jQuery mouseenter()
+jQuery mouseleave()
+jQuery hover()
+jQuery mousedown()
+jQuery mouseup()
+jQuery mouseover()
+jQuery mouseout()
+jQuery load()
+jQuery unload()
+jQuery delegate()
+AngularJS Tutorial
+What is AngularJS
+AngularJS MVC
+AngularJS First App
+AngularJS Data Binding
+AngularJS Expressions
+AngularJS Directives
+AngularJS Controllers
+AngularJS Modules
+AngularJS Scopes
+AngularJS Dependency
+AngularJS Filters
+AngularJS Tables
+AngularJS Select
+AngularJS DOM
+AngularJS Forms
+AngularJS Validation
+AngularJS AJAX
+AngularJS Animation
+Angular 7 Introduction
+Angular 7 Installation
+History & Versions
+Angular 7 First App
+Angular 7 Files Explanation
+Angular 7 with Bootstrap
+All CLI commands
+Angular 7 Libraries
+Angular 7 Architecture
+Angular 7 Components
+Angular 7 Directives
+Angular 7 ngIf Directive
+Angular 7 ngStyle Directive
+Angular 7 Databinding
+Angular 7 String Interpolation
+Angular 7 Event Binding
